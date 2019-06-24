@@ -1,2 +1,2 @@
-#Fairfax County Housing Values
-This project predicts housing values for Fairfax County, VA
+# Fairfax County Housing Values
+This project involves predicting future median housing values for Fairfax County, VA.
